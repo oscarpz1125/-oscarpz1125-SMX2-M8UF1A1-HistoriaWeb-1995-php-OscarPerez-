@@ -29,5 +29,6 @@ PHP, que significa "PHP: Hypertext Preprocessor", es un lenguaje de programació
 PHP es un lenguaje de programación de código abierto que se utiliza principalmente para el desarrollo web. Con PHP, se pueden crear aplicaciones web dinámicas e interactivas. Se utiliza en el lado del servidor, lo que significa que el código PHP se procesa en el servidor antes de ser enviado al navegador del usuario. PHP es conocido por su facilidad de uso y su amplia compatibilidad con bases de datos. También cuenta con una comunidad activa de desarrolladores y una amplia documentación disponible.
 
 
-![PHP](hhttps://github.com/oscarpz1125/-oscarpz1125-SMX2-M8UF1A1-HistoriaWeb-1995-php-OscarPerez-/blob/main/PHP-logo.svg.jpg
-"PHP") 
+![PHP](https://github.com/oscarpz1125/-oscarpz1125-SMX2-M8UF1A1-HistoriaWeb-1995-php-OscarPerez-/blob/main/o-que-e-php-845x480.jpg "PHP") 
+
+
