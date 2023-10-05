@@ -2,10 +2,10 @@
 Segundo repositorio para exponer
 
 
-## Quien fundo PHP y cual fue el año de creación?
+# Quien fundo PHP y cual fue el año de creación?
 
 
-PHP, que significa "PHP: Hypertext Preprocessor", es un lenguaje de programación de código abierto ampliamente utilizado en el desarrollo web. Fue creado originalmente por Rasmus Lerdorf en 1994 y ha experimentado un crecimiento significativo desde entonces. A continuación, se presentan algunos aspectos y características clave de PHP:
+PHP, que significa "PHP: Hypertext Preprocessor", es un lenguaje de programación de código abierto ampliamente utilizado en el desarrollo web. Fue creado originalmente por Rasmus Lerdorf en 1995 y ha experimentado un crecimiento significativo desde entonces. A continuación, se presentan algunos aspectos y características clave de PHP:
 
 1. Diseñado para la web: PHP fue diseñado específicamente para el desarrollo web y se utiliza principalmente para crear aplicaciones web dinámicas y sitios web interactivos.
 
@@ -20,8 +20,13 @@ PHP, que significa "PHP: Hypertext Preprocessor", es un lenguaje de programació
 6. Amplia disponibilidad de frameworks (esquema de trabajo): Existen numerosos frameworks de PHP, como Laravel, Symfony y CodeIgniter, que proporcionan estructuras y herramientas adicionales para simplificar y acelerar el desarrollo web.
 
 
-![PHP](hhttps://github.com/oscarpz1125/-oscarpz1125-SMX2-M8UF1A1-HistoriaWeb-1995-php-OscarPerez-/blob/main/PHP-logo.svg.png "PHP") 
-
  ![Creador](https://github.com/oscarpz1125/-oscarpz1125-SMX2-M8UF1A1-HistoriaWeb-1995-php-OscarPerez-/blob/main/lerdorf.jpg "Creador") 
 
 
+## De que habla PHP?
+
+
+PHP es un lenguaje de programación de código abierto que se utiliza principalmente para el desarrollo web. Con PHP, se pueden crear aplicaciones web dinámicas e interactivas. Se utiliza en el lado del servidor, lo que significa que el código PHP se procesa en el servidor antes de ser enviado al navegador del usuario. PHP es conocido por su facilidad de uso y su amplia compatibilidad con bases de datos. También cuenta con una comunidad activa de desarrolladores y una amplia documentación disponible.
+
+
+![PHP](hhttps://github.com/oscarpz1125/-oscarpz1125-SMX2-M8UF1A1-HistoriaWeb-1995-php-OscarPerez-/blob/main/PHP-logo.svg.png "PHP") 
