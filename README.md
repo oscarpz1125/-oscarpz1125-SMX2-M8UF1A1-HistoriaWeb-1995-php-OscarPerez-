@@ -20,6 +20,8 @@ PHP, que significa "PHP: Hypertext Preprocessor", es un lenguaje de programació
 6. Amplia disponibilidad de frameworks (esquema de trabajo): Existen numerosos frameworks de PHP, como Laravel, Symfony y CodeIgniter, que proporcionan estructuras y herramientas adicionales para simplificar y acelerar el desarrollo web.
 
 
-![PHP](hhttps://github.com/oscarpz1125/-oscarpz1125-SMX2-M8UF1A1-HistoriaWeb-1995-php-OscarPerez-/blob/main/PHP-logo.svg.png "PHP")  ![Creador](https://github.com/oscarpz1125/-oscarpz1125-SMX2-M8UF1A1-HistoriaWeb-1995-php-OscarPerez-/blob/main/lerdorf.jpg "Creador") 
+![PHP](hhttps://github.com/oscarpz1125/-oscarpz1125-SMX2-M8UF1A1-HistoriaWeb-1995-php-OscarPerez-/blob/main/PHP-logo.svg.png "PHP") 
+
+ ![Creador](https://github.com/oscarpz1125/-oscarpz1125-SMX2-M8UF1A1-HistoriaWeb-1995-php-OscarPerez-/blob/main/lerdorf.jpg "Creador") 
 
 
